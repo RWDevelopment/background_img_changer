@@ -1,2 +1,2 @@
 # background_img_changer
-simple JavaScript background image changer
+Simple JavaScript background image changer
